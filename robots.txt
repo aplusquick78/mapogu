@@ -1,2 +1,7 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://mapogu.8222quick.com/sitemap.xml
+
+
+
